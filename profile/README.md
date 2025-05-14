@@ -1,4 +1,4 @@
-# 🪰 Fly on the Wall, LLC
+# Fly on the Wall, LLC
 
 > *Quietly building loud ideas.*
 
