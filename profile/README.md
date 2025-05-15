@@ -18,8 +18,8 @@ An AI-powered scheduling assistant for college students. Syncs Canvas deadlines 
 
 **Fly on the Wall** was founded by three roommates with a passion for shipping meaningful side projects:
 
-- **Conner Groth** – Full-stack developer  
-- **Isaias Perez** – Full-stack developer  
+- **[Conner Groth](https://github.com/connergroth)** – Full-stack developer  
+- **[Isaias Perez](https://github.com/IP-04)** – Full-stack developer  
 - **Jake Pechart** – Legal lead & product strategist
 
 Together, we combine software, design, and legal precision to bring scrappy ideas to life.
