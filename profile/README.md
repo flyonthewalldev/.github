@@ -8,7 +8,7 @@ We’re a student-led software studio based in Boulder, CO, creating AI-first to
 
 ## 🚀 What We’re Building
 
-### [PulsePlan](https://github.com/flyonthewalldev/pulseplan)
+### [Rhythm](https://github.com/flyonthewalldev/Rhythm)
 An AI-powered scheduling assistant for college students. Syncs Canvas deadlines and Google Calendar events to generate a smart, personalized weekly plan.  
 → Built with React Native, Firebase, FastAPI, GPT-4, and a custom Chrome extension.
 
