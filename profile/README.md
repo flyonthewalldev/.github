@@ -10,7 +10,7 @@ We’re a student-led software studio based in Boulder, CO, creating AI-first to
 
 ### [PulsePlan](https://github.com/flyonthewalldev/PulsePlan)
 An AI-powered scheduling assistant for college students. Syncs Canvas deadlines and Google Calendar events to generate a smart, personalized weekly plan.  
-→ Built with React Native, Supabase, Next.js, GPT-4o, and a custom Chrome extension.
+→ Built with React Native, Supabase, Next.js, Machine Learning, GPT-4o, and a custom Chrome extension.
 
 ---
 
