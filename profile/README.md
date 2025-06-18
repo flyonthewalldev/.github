@@ -2,15 +2,15 @@
 
 > *Quietly building loud ideas.*
 
-We’re a student-led software studio based in Boulder, CO, creating AI-first tools that solve real problems—with care, clarity, and a bit of chaos.
+We’re a student-led software startup based in Boulder, CO, creating AI-integrated tools that solve real problems—with care, clarity, and a bit of chaos.
 
 ---
 
-## 🚀 What We’re Building
+## 💻 What We’re Building
 
 ### [PulsePlan](https://github.com/flyonthewalldev/PulsePlan)
-An AI-powered scheduling assistant for college students. Syncs Canvas deadlines and Google Calendar events to generate a smart, personalized weekly plan.  
-→ Built with React Native, Supabase, Next.js, Machine Learning, GPT-4o, and a custom Chrome extension.
+PulsePlan is your AI-powered academic planner — built to simplify scheduling for college students. It automatically syncs Canvas deadlines, emails, notes, and calendar events to create a personalized, adaptive weekly plan.  
+→ Built with: React Native · Supabase · Next.js · n8n Agent Workflow · OpenAI API · Gemini API · Custom Chrome Extension
 
 ---
 
@@ -27,13 +27,12 @@ Together, we combine software, design, and legal precision to bring scrappy idea
 ---
 
 ## 🛠️ Tech Stack
-Across our projects, we work with:
-- React Native / Expo  
-- TypeScript & React  
-- FastAPI & Node.js  
-- Firebase, Supabase, PostgreSQL  
-- OpenAI APIs, LLMs, and ML tooling  
-- GitHub Actions, Docker, Vercel
+Across our projects, we work with:  
+- **Frontend:** React Native / Expo · TypeScript · React  
+- **Backend:** FastAPI · Next.js  
+- **Databases & Auth:** Supabase · Firebase · PostgreSQL  
+- **AI & ML:** OpenAI API · Gemini API · n8n Agent Workflows
+- **DevOps & Infra:** Docker · GitHub Actions · Vercel · Fly.io
 
 ---
 
