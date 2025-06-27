@@ -10,7 +10,7 @@ We’re a student-led software startup based in Boulder, CO, creating AI-integra
 
 ### [PulsePlan](https://github.com/flyonthewalldev/PulsePlan)
 PulsePlan is your AI-powered academic planner — built to simplify scheduling for college students. It automatically syncs Canvas deadlines, emails, notes, and calendar events to create a personalized, adaptive weekly plan.  
-→ Built with: React Native · Supabase · Next.js · n8n Agent Workflow · OpenAI API · Gemini API · Custom Chrome Extension
+→ Built with: React Native · Supabase · Redis · Node.js · n8n · OpenAI API 
 
 ---
 
@@ -18,7 +18,7 @@ PulsePlan is your AI-powered academic planner — built to simplify scheduling f
 
 **Fly on the Wall** was founded by three roommates with a passion for shipping meaningful side projects:
 
-- **[Conner Groth](https://github.com/connergroth)** – Full-Stack Developer  
+- **[Conner Groth](https://github.com/connergroth)** – AI Engineer & Full-Stack Developer  
 - **[Isaias Perez](https://github.com/IP-04)** – Full-Stack Developer  
 - **Jake Pechart** – Legal lead & Product strategist
 
