@@ -29,9 +29,9 @@ Together, we combine software, design, and legal precision to bring scrappy idea
 ## 🛠️ Tech Stack
 Across our projects, we work with:  
 - **Frontend:** React Native / Expo · TypeScript · React  
-- **Backend:** FastAPI · Next.js  
+- **Backend:** Node.js 
 - **Databases & Auth:** Supabase · Firebase · PostgreSQL  
-- **AI & ML:** OpenAI API · Gemini API · n8n Agent Workflows
+- **AI & ML:** OpenAI API · Gemini API · n8n Agents
 - **DevOps & Infra:** Docker · GitHub Actions · Vercel · Fly.io
 
 ---
