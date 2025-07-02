@@ -18,8 +18,8 @@ PulsePlan is your AI-powered academic planner — built to simplify scheduling f
 
 **Fly on the Wall** was founded by three roommates with a passion for shipping meaningful side projects:
 
-- **[Conner Groth](https://github.com/connergroth)** –  Full-Stack & AI Engineer   
-- **[Isaias Perez](https://github.com/IP-04)** – Full-Stack Engineer  
+- **[Conner Groth](https://github.com/connergroth)** –  AI Software Engineer  
+- **[Isaias Perez](https://github.com/IP-04)** – Software Engineer 
 - **Jake Pechart** – Legal lead & Product strategist
 
 Together, we combine software, design, and legal precision to bring scrappy ideas to life.
