@@ -10,7 +10,7 @@ We’re a student-led software startup based in Boulder, CO, creating AI-integra
 
 ### [PulsePlan](https://github.com/flyonthewallai/PulsePlan)
 PulsePlan is your AI agent-powered academic planner, built to simplify scheduling for college students. It automatically syncs Canvas deadlines, emails, notes, and calendar events to create a personalized, adaptive weekly plan.  
-→ Built with: Swift · Supabase · Redis · Python · Langchain 
+→ Built with: Swift · Supabase · Redis · Python · LangChain 
 
 ---
 
@@ -28,19 +28,19 @@ Together, we combine software, design, and legal precision to bring scrappy idea
 
 ## 🛠️ Tech Stack
 Across our projects, we work with:  
-- **Frontend:** React Native / Expo · TypeScript · React  
-- **Backend:** Node.js 
-- **Databases & Auth:** Supabase · Firebase · PostgreSQL  
-- **AI & ML:** OpenAI API · Gemini API · n8n Agents
-- **DevOps & Infra:** Docker · GitHub Actions · Vercel · Fly.io
+- **Frontend:** Swift/SwiftUI · TypeScript · React  
+- **Backend:** Python
+- **Databases & Auth:** Supabase · PostgreSQL 
+- **AI & ML:** LangChain · OpenAI API · Custom ML Algorithms
+- **DevOps & Infra:** Docker · GitHub Actions · Vercel · Fly.io · AWS
 
 ---
 
 ## ✨ Want to Follow Along?
 
-We’re documenting our journey as we build:
-- [flyonthewalldev.com](https://flyonthewalldev.com) – landing page & project links  
-- [@flyonthewalldev](https://linkedin.com/company/flyonthewalldev) - LinkedIn company page
+Follow us at:
+- [flyonthewalldev.com](https://flyonthewalldev.xyz) – landing page & project links  
+- [@flyonthewalldev](https://linkedin.com/company/flyonthewallai) - LinkedIn company page
 - Reach out: **hello@flyonthewall.xyz**
 
 ---
